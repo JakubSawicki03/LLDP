@@ -2,7 +2,7 @@
 This script is using LLDP to check the connection to the switch.
 
 # HOW TO USE
-
+Make sure that LLDP is turn on on switches in your company!
 Before running the script, set execution-policy to RemoteSigned or Bypass, then you can run the script :)
 
 # Purpose of the script
